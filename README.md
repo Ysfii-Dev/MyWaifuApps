@@ -12,9 +12,9 @@ Aplikasi ini juga menyediakan fitur untuk mengatur gambar waifu sebagai wallpape
 
 ## Screenshots
 
-                                                                                    | Info                          |
-                                                                                    | ----------------------------- |
-                                                                                    | ![Info](screenshots/info.jpg) |
+| Info                          |
+| ----------------------------- |
+| ![Info](screenshots/info.jpg) |
 
 | SplashScreen                                    | Halaman Utama                                   | Halaman Detail                                    | Halaman Profil                                   |
 | ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ |
