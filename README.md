@@ -59,3 +59,5 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi:
 - **Email**: yusfisyawali@gmail.com
 
 ## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
