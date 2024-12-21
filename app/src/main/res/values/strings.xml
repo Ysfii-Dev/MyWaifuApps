@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Waifu Apps</string>
+    <string name="waifu_name">waifu name</string>
+    <string name="waifu_anime">waifu anime</string>
+    <string name="todo">TODO</string>
+    <string name="birthday">Tanggal Lahir</string>
+    <string name="val_birth">val birth</string>
+    <string name="zodiak">Zodiak</string>
+    <string name="val_zodiak">val zodiak</string>
+    <string name="age">Umur</string>
+    <string name="val_age">val umur</string>
+    <string name="blood">Goldar</string>
+    <string name="val_blood">val goldar</string>
+    <string name="height_body">Tinggi Badan</string>
+    <string name="val_height_body">val tb</string>
+    <string name="about_waifu">Tentang Waifu</string>
+    <string name="waifu_anime_detail">Tentang Anime</string>
+    <string name="waifu_wallpaper">Jadikan waifu-mu sebagai wallpaper</string>
+    <string name="pemisah">"  "</string>
+    <string name="about">about</string>
+    <string name="my_name">Yusfi Syawali</string>
+    <string name="my_email">yusfisyawali@gmail.com</string>
+    <string name="titik_dua">:</string>
+</resources>
